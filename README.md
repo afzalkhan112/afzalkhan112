@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--# 💫 About Me:
+# 💫 About Me:
 🔭 I’m currently working on<br>Enhancing my expertise in Java development, mastering Spring Boot, and developing skills in AI tools to build intelligent and efficient applications.<br><br>👯 I’m looking to collaborate on<br>Innovative software development and AI-driven projects, especially those involving Java, Spring Boot, and backend technologies.<br><br>🤝 I’m looking for help with<br>Expanding my knowledge in system design, microservices architecture, AI integration, and industry best practices.<br><br>🌱 I’m currently learning<br>Java, Spring Boot, AI tools, and modern backend development methodologies to prepare for a career in a multinational company.<br><br>💬 Ask me about<br>Java programming, backend development, AI tools, and software engineering fundamentals.<br><br>⚡ Fun fact<br>I enjoy solving coding challenges, exploring AI innovations, and staying updated with the latest technology trends.<br><br>Let me know if you’d like any further refinements! 🚀
 
 
